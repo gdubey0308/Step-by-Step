@@ -28,3 +28,7 @@ Pytorch: https://www.youtube.com/playlist?list=PLZoTAELRMXVNxYFq_9MuiUdn2YnlFqmM
 
 8.  Live Projects Playlist:
 https://www.youtube.com/playlist?list=PLZoTAELRMXVOFnfSwkB_uyr4FT-327noK
+
+
+EDA
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9
