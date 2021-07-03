@@ -1,3 +1,6 @@
+EDA
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9
+
 # Step-by-Step
 Step by Step 
 https://www.youtube.com/watch?v=ZwsK-rKIjwU
@@ -30,5 +33,4 @@ Pytorch: https://www.youtube.com/playlist?list=PLZoTAELRMXVNxYFq_9MuiUdn2YnlFqmM
 https://www.youtube.com/playlist?list=PLZoTAELRMXVOFnfSwkB_uyr4FT-327noK
 
 
-EDA
-https://www.youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9
+
